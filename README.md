@@ -1,7 +1,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]](https://github.com/aadimangla/IMDB-Movie-Reviews-Sentiment-Analysis/issues)
+[![Issues][issues-shield]](https://github.com/aadimangla/Handwritten-Digit-Classification/issues)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -191,14 +191,14 @@ Project Link: [https://github.com/aadimangla/Handwritten-Digit-Classification](h
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/aadimangla/Handwritten-Digit-Classification.svg?style=flat-square
-[contributors-url]: https://github.com/aadimangla/Handwritten-Digit-Classificationl/graphs/contributors
+[contributors-url]: https://github.com/aadimangla/Handwritten-Digit-Classification/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/aadimangla/Handwritten-Digit-Classification.svg?style=flat-square
 [forks-url]: https://github.com/aadimangla/Handwritten-Digit-Classification/network/members
 [stars-shield]: https://img.shields.io/github/stars/aadimangla/Handwritten-Digit-Classification.svg?style=flat-square
 [stars-url]: https://github.com/aadimangla/Handwritten-Digit-Classification/stargazers
 [issues-shield]: https://img.shields.io/github/issues/aadimangla/Handwritten-Digit-Classification.svg?style=flat-square
 [issues-url]: https://github.com/aadimangla/Handwritten-Digit-Classification/issues
-[license-shield]: https://img.shields.io/github/license/aadimangla/Handwritten-Digit-Classificationl.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/aadimangla/Handwritten-Digit-Classification.svg?style=flat-square
 [license-url]: https://github.com/aadimangla/Handwritten-Digit-Classification/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/aadimangla
