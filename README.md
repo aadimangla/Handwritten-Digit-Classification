@@ -72,6 +72,7 @@ The dataset is available at [THE MNIST DATABASE of handwritten digits](http://ya
 
 
 ### Built With
+
 This was build using following frameworks, libraries and softwares.
 * [Tensorflow](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
@@ -131,7 +132,9 @@ $ rasa shell
 ---
 <!-- USAGE EXAMPLES -->
 ## Usage
+
 Applications of offline handwriting recognition are numerous: reading postal addresses, bank check amounts, and forms. Furthermore, OCR plays an important role for digital libraries, allowing the entry of image textual information into computers by digitization, image restoration, and recognition methods.
+
 ---
 
 <!-- ROADMAP -->
