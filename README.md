@@ -26,7 +26,7 @@
     ·
     <a href="">Report Bug</a>
     · -->
-    <a href="https://github.com/aadimangla/IMDB-Movie-Reviews-Sentiment-Analysis/issues">Request Feature</a>
+    <a href="https://github.com/aadimangla/Handwritten-Digit-Classification/issues">Request Feature</a>
   </p>
 </p>
 
@@ -51,20 +51,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-`Fashion-MNIST` is a dataset of [Zalando](https://jobs.zalando.com/tech/)'s article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. We intend `Fashion-MNIST` to serve as a direct **drop-in replacement** for the original [MNIST dataset](http://yann.lecun.com/exdb/mnist/) for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
+The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
+It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
 
-Here's an example how the data looks (*each class takes three-rows*):
+Four files are available on this site:
 
-![](Images/fashion-mnist-sprite.png)
+train-images-idx3-ubyte.gz:  training set images (9912422 bytes)
+train-labels-idx1-ubyte.gz:  training set labels (28881 bytes)
+t10k-images-idx3-ubyte.gz:   test set images (1648877 bytes)
+t10k-labels-idx1-ubyte.gz:   test set labels (4542 bytes)
+
+Offline handwriting recognition, often referred to as optical character recognition, is performed after the writing is completed by converting the handwritten document into digital form. The advantage of offline recognition is that it can be done at any time after the document has been written, even years later. The disadvantage is that it is not done in real time as a person writes and therefore not appropriate for immediate text input.
+
+![](images/mnist.png)
 
 Here's why:
-* Fashion-MNIST can be used as drop-in replacement for the original MNIST dataset (10 categories of handwritten digits). It shares the same image size (28x28) and structure of training (60,000) and testing (10,000) splits. It’s great for writing “hello world” tutorials for deep learning.
+* The advantage of offline recognition is that it can be done at any time after the document has been written, even years later. The disadvantage is that it is not done in real time as a person writes and therefore not appropriate for immediate text input.
 
-The dataset is available at [Fashion mnist  Dataset](https://github.com/zalandoresearch/fashion-mnist) .
+The dataset is available at [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/) .
 
-
-### Embedding Projection
-![Embedding Projector](Images/embedding.gif)
 
 ### Built With
 This was build using following frameworks, libraries and softwares.
@@ -119,14 +124,20 @@ $ rasa shell --debug
 $ rasa shell
 ```
 -->
+---
+### Model Architecture
+![](images/conv_mnist.png)
 
 ---
 <!-- USAGE EXAMPLES -->
+## Usage
+Applications of offline handwriting recognition are numerous: reading postal addresses, bank check amounts, and forms. Furthermore, OCR plays an important role for digital libraries, allowing the entry of image textual information into computers by digitization, image restoration, and recognition methods.
+---
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/aadimangla/Fashion-Mnist-Model/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/aadimangla/Handwritten-Digit-Classification/issues) for a list of proposed features (and known issues).
 
 
 ---
@@ -160,7 +171,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Aditya Mangla - [@aadimangla](https://twitter.com/aadimangla) - aadimangla@gmail.com - [adityamangla.com](http://www.adityamangla.com/index.html)
 
-Project Link: [https://github.com/aadimangla/Fashion-Mnist-Model](https://github.com/aadimangla/Fashion-Mnist-Model)
+Project Link: [https://github.com/aadimangla/Handwritten-Digit-Classification](https://github.com/aadimangla/Handwritten-Digit-Classification)
 
 ---
 
@@ -176,16 +187,16 @@ Project Link: [https://github.com/aadimangla/Fashion-Mnist-Model](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/aadimangla/Fashion-Mnist-Model.svg?style=flat-square
-[contributors-url]: https://github.com/aadimangla/Fashion-Mnist-Model/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/aadimangla/Fashion-Mnist-Model.svg?style=flat-square
-[forks-url]: https://github.com/aadimangla/Fashion-Mnist-Model/network/members
-[stars-shield]: https://img.shields.io/github/stars/aadimangla/Fashion-Mnist-Model.svg?style=flat-square
-[stars-url]: https://github.com/aadimangla/Fashion-Mnist-Model/stargazers
-[issues-shield]: https://img.shields.io/github/issues/aadimangla/Fashion-Mnist-Model.svg?style=flat-square
-[issues-url]: https://github.com/aadimangla/Fashion-Mnist-Model/issues
-[license-shield]: https://img.shields.io/github/license/aadimangla/Fashion-Mnist-Model.svg?style=flat-square
-[license-url]: https://github.com/aadimangla/Fashion-Mnist-Model/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/aadimangla/Handwritten-Digit-Classification.svg?style=flat-square
+[contributors-url]: https://github.com/aadimangla/Handwritten-Digit-Classificationl/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/aadimangla/Handwritten-Digit-Classification.svg?style=flat-square
+[forks-url]: https://github.com/aadimangla/Handwritten-Digit-Classification/network/members
+[stars-shield]: https://img.shields.io/github/stars/aadimangla/Handwritten-Digit-Classification.svg?style=flat-square
+[stars-url]: https://github.com/aadimangla/Handwritten-Digit-Classification/stargazers
+[issues-shield]: https://img.shields.io/github/issues/aadimangla/Handwritten-Digit-Classification.svg?style=flat-square
+[issues-url]: https://github.com/aadimangla/Handwritten-Digit-Classification/issues
+[license-shield]: https://img.shields.io/github/license/aadimangla/Handwritten-Digit-Classificationl.svg?style=flat-square
+[license-url]: https://github.com/aadimangla/Handwritten-Digit-Classification/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/aadimangla
 [product-screenshot]: images/screenshot.png
